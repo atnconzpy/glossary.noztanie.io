@@ -1,0 +1,980 @@
+,Key,Mean
+0, action language,ngôn ngữ dùng để xác định sự thay đổi trạng thái của hệ thống
+1, addition,phép cộng
+2, algorithm,thuật toán
+3, alphanumeric,gồm chữ và số
+4, API,(application programming interface) giao diện lập trình ứng dụng
+5, architecture,kiến trúc của hệ thống máy tính
+6, arithmetic operation,phép toán số học
+7, array,mảng
+8, assembler,chương trình dịch hợp ngữ
+9, assembly language,hợp ngữ
+10, assign,gán
+11, batch,việc xử lý hàng loạt
+12, batch processing,xử lý hàng loạt
+13, binary,hệ nhị phân
+14, Boolean,(kiểu dữ liệu) chỉ có hai giá trị đúng hoặc sai
+15, bracket,dấu ngoặc
+16, bug,lỗi
+17, character code,mã ký tự
+18, class,lớp trong lập trình hướng đối tượng
+19, code,mã
+20, command,lệnh
+21, command interpreter,chương trình phiên dịch lệnh
+22, command language,ngôn ngữ lệnh
+23, compile,biên dịch
+24, compiler,trình biên dịch
+25, concurrent computing,tính toán đồng thời
+26, configuration,cấu hình
+27, constant,hằng số
+28, constraint programming,lập trình ràng buộc
+29, crack,làm phần mềm có tính phí được sử dụng miễn phí
+30, CRC,(cyclic redundancy check) kỹ thuật kiểm tra độ dư tuần hoàn
+31, data-driven programming,lập trình dựa trên dữ liệu
+32, dataflow programming,lập trình dòng dữ liệu
+33, debug,sửa lỗi
+34, debugger,chương trình tìm và sửa lỗi
+35, decimal,thập phân
+36, declarative programming,lập trình khai báo
+37, declare,khai báo
+38, decode,giải mã
+39, decrypt,dịch mã
+40, defensive programming,lập trình phòng thủ
+41, disassemble,dịch ngữ mã máy sang ngôn ngữ người đọc
+42, disassembler,trình phân dịch
+43, division,phép chia
+44, dynamic,động
+45, dynamic programming,quy hoạch động
+46, element,phần tử
+47, encode,mã hóa
+48, encrypt,lập mã dữ liệu
+49, encryption,sự mã hóa
+50, entropy,dữ liệu ngẫu nhiên
+51, environment,môi trường
+52, escape character,ký tự thoát
+53, event handler,thành phần xử lý sự kiện
+54, event-driven programming,lập trình dựa trên sự kiện
+55, evolutionary algorithm,thuật toán tiến hóa
+56, extreme programming,lập trình cực hạn
+57, fault tolerance,tính chịu lỗi (khả năng của một hệ thống vẫn tiếp tục hoạt động kể cả khi một trong các thành phần của nó gặp sự cố)
+58, functional programming,lập trình hàm
+59, generic programming,lập trình khái quát
+60, genetic algorithm,giải thuật di truyền
+61, genetic programming,lập trình di truyền
+62, glitch,sự cố kỹ thuật nhỏ
+63, global variable,biến toàn cục
+64, GUI,(graphical user interface) giao diện đồ họa
+65, hash function,hàm băm
+66, hexadecimal,thập lục phân
+67, high-level programming language,ngôn ngữ lập trình cấp cao
+68, imperative programming,lập trình mệnh lệnh
+69, implement,thi hành
+70, inheritance,sự thừa hưởng
+71, initialize,khởi động máy
+72, input,quá trình nhập liệu
+73, integer,số nguyên
+74, intelligent agent,tác tử thông minh
+75, interpreter,trình thông dịch
+76, iteration,tính chất lặp đi lặp lại
+77, legal,hợp lệ
+78, load,tải
+79, local variable,biến cục bộ
+80, logic circuit,mạch logic
+81, logic programming,lập trình logic
+82, logical operator,toán tử logic
+83, loop,cấu trúc lặp
+84, low-level,cấp thấp (ngôn ngữ lập trình)
+85, low-level programming language,ngôn ngữ lập trình cấp thấp
+86, machine code,mã máy
+87, macro,lệnh macro
+88, matrix,ma trận
+89, metaprogramming,siêu lập trình
+90, method,phương pháp
+91, microcode,vi mã
+92, modular programming,lập trình mô-đun
+93, multiplication,phép nhân
+94, natural language,ngôn ngữ tự nhiên
+95, null,giá trị rỗng
+96, object,đối tượng
+97, object-oriented programming,lập trình hướng đối tượng
+98, operand,toán hạng
+99, output,thông tin do máy tính xuất ra
+100, overflow,tràn dữ liệu
+101, override,ghi đè
+102, parallel algorithm,thuật toán song song
+103, parallel computing,tính toán song song
+104, parameter,tham số
+105, parity bit,bit chẵn lẻ (bit dùng để báo hiệu số lượng bit có giá trị bằng 1 trong một nhóm bit cho trước là một số chẵn hay là một số lẻ)
+106, parse,phân tích cú pháp
+107, pattern matching,việc đối chiếu mẫu
+108, pointer,con trỏ
+109, polymorphism,tính đa hình
+110, procedural programming,lập trình thủ tục
+111, procedure,quy trình
+112, program,một tập các lệnh dùng để chỉ định một sự tính toán
+113, programmer,lập trình viên
+114, programming language,ngôn ngữ lập trình
+115, programming paradigm,mô hình lập trình
+116, protocol stack,chồng giao thức
+117, pseudocode,mã giả
+118, public-key cryptography,mã hóa khóa công khai
+119, query language,ngôn ngữ truy vấn
+120, recursive,đệ quy
+121, request,yêu cầu
+122, reserved word,từ dành riêng
+123, retrieve,lấy lại dữ liệu
+124, routine,đoạn mã được sử dụng ở nhiều nơi khác nhau
+125, runtime,thời điểm khi máy đang chạy chương trình
+126, script,kịch bản
+127, seek time,thời gian xác định vị trí tập tin lưu trên đĩa
+128, SGML,(standard generalized mark-up language) ngôn ngữ đánh dấu tiêu chuẩn
+129, source code,mã nguồn
+130, source program,chương trình được viết bằng mã nguồn
+131, SQL,(structured query language) ngôn ngữ truy vấn cấu trúc
+132, statement,câu lệnh
+133, static,tĩnh
+134, string,chuỗi
+135, structured programming,lập trình cấu trúc
+136, subscript,biểu tượng để xác định một yếu tố trong chuỗi
+137, subtraction,phép trừ
+138, syntax,cú pháp
+139, system programming,lập trình hệ thống
+140, tacit programming,"mô hình lập trình mà hàm không xác định các đối số, trong đó định nghĩa của hàm chỉ ra sự kết hợp của các hàm"
+141, topology,cấu trúc kiểu liên kết
+142, variable,biến số
+143, XML,(extensible markup language) ngôn ngữ đánh dấu mở rộng
+144, analogue,tương tự
+145, analyst,chuyên gia phân tích
+146, appropriate,thích hợp
+147, artificial intelligence,trí tuệ nhân tạo
+148, ASCII,chuẩn mã trao đổi thông tin Hoa Kỳ
+149, backspace,phím xóa ngược
+150, bitmap,ảnh bitmap
+151, boot,khởi động
+152, capability,năng lực
+153, case-sensitive,phân biệt chữ hoa và chữ thường
+154, character,kí tự
+155, circuit switching,việc chuyển mạch
+156, click,kích chọn một chức năng trên màn hình vi tính
+157, clip art,hình ảnh và ký hiệu được lưu trữ trên máy tính có thể dùng để thêm vào các văn bản khác
+158, clipboard,khu vực lưu trữ thông tin ngắn hạn
+159, close,đóng
+160, communication,phương thức liên lạc
+161, compatible,tương thích
+162, compile,biên dịch
+163, complex,phức tạp
+164, component,bộ phận
+165, compress,nén
+166, computational linguistics,ngôn ngữ học tính toán
+167, computer,máy vi tính
+168, computer cluster,một tập hợp các máy tính được kết nối với nhau và được xem như một hệ thống
+169, computer science,khoa học máy tính
+170, computerize,vi tính hóa
+171, control panel,bảng điều khiển
+172, convert,chuyển đổi
+173, copy,sao chép
+174, corrupt,"bị sửa đổi, có chứa lỗi"
+175, crash,lỗi bị ngừng hoạt động đột ngột
+176, cursor,con trỏ chuột
+177, cut,cắt
+178, cybercrime,tội phạm công nghệ thông tin
+179, data transfer rate,tốc độ truyền dữ liệu
+180, decompress,giải nén
+181, default,xác lập mặc định
+182, defragment,chống phân mảnh (hợp nhất các tập tin tương tự nhau)
+183, delete,xóa
+184, device,thiết bị
+185, digital,kĩ thuật số
+186, directory,thư mục
+187, docking station,thiết bị ngoại vi máy tính thường được sử dụng để mở rộng các tiện ích của máy tính xách tay
+188, double-click,kích đúp chuột
+189, draft,bản nháp
+190, drag-and-drop,kéo thả
+191, duplicate,bản sao
+192, e-book,sách điện tử
+193, enter,nhập dữ liệu
+194, execute,thực thi
+195, external,ở bên ngoài
+196, fetch,tìm về
+197, file,"tệp, tập tin"
+198, filename extension,phần mở rộng của tên tập tin
+199, flow chart,lưu đồ
+200, folder,thư mục
+201, font,phông chữ
+202, frame rate,tốc độ thay đổi khung hình
+203, function,chức năng
+204, graph,đồ thị
+205, highlight,làm nổi bật một đoạn văn bản để dễ thấy
+206, hypermedia,hệ thống siêu văn bản đa phương tiện
+207, icon,biểu tượng
+208, inference,"điều suy ra, điều kết luận"
+209, information,thông tin
+210, information technology,công nghệ thông tin
+211, instruction,hướng dẫn
+212, internal,nội bộ
+213, intricate,phức tạp
+214, key,phím
+215, keystroke,hành động gõ phím
+216, landscape,chế độ hiển thị kiểu phong cảnh
+217, laptop,máy vi tính xách tay
+218, legacy system,hệ thống cũ
+219, line,đường ống dẫn
+220, logical,có tính logic
+221, mailing list,danh sách địa chỉ email
+222, maintenance,sự bảo trì
+223, manipulate,xử lý
+224, maximize,phóng to cửa sổ
+225, menu,bảng tùy chọn
+226, menu bar,thanh menu
+227, microfilm,vi phim
+228, minimize,thu nhỏ cửa sổ
+229, multiprocessing,đa tiến trình
+230, multitasking,tính năng đa nhiệm
+231, nest,lồng vào
+232, numerical,thuộc số
+233, open,mở
+234, operation,hoạt động
+235, optical,thuộc quang học
+236, option,lựa chọn
+237, outsource,thuê nhân lực bên ngoài
+238, overload,quá tải
+239, paste,dán
+240, PDA,thiết bị kỹ thuật số hỗ trợ cá nhân
+241, perform,thực hiện
+242, personal computer,máy tính cá nhân
+243, pixel,điểm ảnh
+244, plug,cắm
+245, portrait,chế độ hiển thị kiểu chân dung
+246, print,in
+247, printer,máy in
+248, random,ngẫu nhiên
+249, reboot,khởi động lại
+250, reduce,làm giảm
+251, replace,thay thế
+252, resize,thay đổi kích thước
+253, resolution,độ phân giải
+254, respond,phản hồi
+255, restore,khôi phục lại
+256, return,nút quay lại
+257, save,lưu
+258, scan,quét
+259, screenshot,ảnh chụp màn hình
+260, scroll,cuộn lên xuống
+261, scroll bar,thanh cuộn
+262, search,tìm kiếm
+263, sequential,theo trình tự
+264, service,dịch vụ
+265, shift,dịch chuyển
+266, shortcut,phím tắt
+267, signal,tín hiệu
+268, simultaneously,một cách đồng thời
+269, spellcheck,kiểm tra chính tả
+270, status bar,thanh trạng thái
+271, store,lưu trữ
+272, supercomputer,siêu máy tính
+273, synchronize,đồng bộ hóa
+274, synchronous,đồng bộ
+275, systems analysis,việc phân tích hệ thống
+276, systems analyst,chuyên viên phân tích hệ thống
+277, tag,một từ khóa hay một thuật ngữ nhằm chỉ một mẫu thông tin
+278, tape,ghi băng
+279, task manager,trình quản lý tác vụ
+280, taskbar,thanh tác vụ (nơi chứa các biểu tượng của các chương trình đang chạy hiện thời)
+281, technical,thuộc về kĩ thuật
+282, technician,kỹ thuật viên
+283, technology,công nghệ
+284, text,văn bản
+285, toggle,phím bập bênh (chuyển qua lại giữa hai chế độ hoặc hai trạng thái)
+286, toolbar,thanh công cụ
+287, transmit,truyền tín hiệu
+288, tutorial,bài hướng dẫn
+289, typeface,bộ phông chữ
+290, undo,hủy thao tác trước đó
+291, user interface,giao diện người dùng
+292, verify,kiểm tra lại
+293, wallpaper,hình nền màn hình
+294,51% Attack, Một hình thức tấn công mạng lưới khi có một nhóm thợ đào kiểm soát 50% sức mạnh tính toán
+295,AML (Anti Money Laundering)," Một khuôn khổ bao gồm các thủ tục pháp lý, luật và quy định để giảm thiểu và hạn chế dòng tiền được tạo ra từ các hoạt động bất hợp pháp."
+296,AMM (Automated Market Maker), Công cụ đem lại thanh khoản tự động cho sàn giao dịch.
+297,APR, Hay tỷ lệ phần trăm hàng năm là số tiền lãi bạn sẽ trả cho một khoản nợ chưa thanh toán mỗi năm.
+298,APY," Được sử dụng cho lợi suất phần trăm hàng năm, là tỷ lệ kiếm được từ một khoản đầu tư trong một năm, có tính đến ảnh hưởng của lãi suất kép."
+299,ASIC," Application Specific Integrated Circuit, chỉ vi mạch IC chuyên dụng trong điện tử học. Công cụ khai thác ASIC đề cập đến một thiết bị hoặc phần cứng được máy tính hóa sử dụng ASIC cho mục đích duy nhất là khai thác tiền điện tử."
+300,ATH (All-Time-High), ATH là viết tắt của All-Time-High là mức giá cao nhất của một loại tiền điện tử
+301,ATL (All-Time-Low)," Điểm thấp nhất (về giá, vốn hóa thị trường) mà một loại tiền điện tử từng có trong lịch sử."
+302,Account," Tài khoản bạn đăng ký trên các sàn giao dịch, hay tài khoản mạng xã hội để bạn có thể theo dõi hoạt động tài chính của một số loại tài sản cụ thể."
+303,Address," Nơi mà tiền điện tử có thể được gửi đến và gửi đi, dưới dạng một chuỗi các chữ cái và số."
+304,Airdrop, Airdrop là một phần thưởng của dự án phân phối đến người dùng
+305,Allocation," Việc phân bổ token hay vốn chủ sở hữu thông qua việc kiếm được, mua hoặc dành riêng cho nhà đầu tư, nhóm hoặc tổ chức. Các khoản phân bổ này có thể được thanh toán cùng một lúc vào một ngày nhất định hoặc các giai đoạn theo một lịch trình xác định trước."
+306,Altcoi, Altcoin là tập hợp các loại tiền điện tử không phải Bitcoin.
+307,Angel Investor, Một cá nhân cung cấp vốn cho một dự án kinh doanh mới hoặc các công ty khởi nghiệp.
+308,Auction, Một sực kiện trực tiếp mà tại đó khách hàng đưa ra mức giá cạnh tranh về tài sản và dịch vụ. Tài sản hoặc dịch vụ sẽ được bán cho người đưa ra mức giá cao nhất
+309,Audit, Công việc kiểm tra các lỗ hổng bảo mật của dự án crypto thông qua việc kiểm tra các đoạn mã (code) trong sản phẩm của dự án.
+310,BEP-2, Một tiêu chuẩn của token trên Binance Chain.
+311,BEP-20, Một tiêu chuẩn của token trên Binance Smart Chain.
+312,BEP-721, Một tiêu chuẩn kỹ thuật xác định một bộ quy tắc để phát hành NFT trong hệ sinh thái Binance Smart Chain.
+313,BEP-95, Một chế đốt BNB thời gian thực trên Binance Smart Chain.
+314,Bags, Danh mục đầu tư tiền mã hóa của một người đang nắm giữ.
+315,Bear Market," Thị trường giảm, trong đó giá các loại tiền điện tử giảm đột ngột và kéo dài liên tục."
+316,Bitcoin Dominance, Tỷ lệ vốn hóa thị trường của Bitcoin so với các đồng tiền điện tử khác
+317,Bollinger Bands, Chỉ báo phân tích kỹ thuật được cấu tạo bởi 2 đường trung bình động để đo sự biến đồng của thị trường.
+318,Breakout, Hành động giá phá vỡ khỏi mô hình hoặc kháng cự
+319,Bull Market," Thị trường tăng, trong đó giá các loại tiền điện tử tăng mạnh và kéo dài liên tục."
+320,CEX (Centralized Exchange), Sàn giao dịch tập trung. Địa điểm trung gian hỗ trợ giao dịch tiền điện tử giữa người mua và người bán.
+321,Call option, Quyền chọn mua. Một loại quyền chọn tăng giá trị khi cổ phiếu tăng giá. Chúng là loại quyền chọn nổi tiếng nhất và cho phép chủ sở hữu chốt giá để mua một cổ phiếu cụ thể vào một ngày cụ thể.
+322,Candlestick, Một biểu đồ hình nến được các nhà giao dịch sử dụng để xác định chuyển động giá có thể có dựa trên các mẫu trong lịch sử.
+323,Capital, Được định nghĩa là số tiền lớn bạn sẽ sử dụng để đầu tư.
+324,Cloud Mining, Một cách kiếm tiền điện tử đơn giản bằng cách thuê sức mạnh tính toán từ các nguồn của bên thứ ba.
+325,Coin," Một loại tiền điện tử được xây dựng dựa trên nền tảng của Blockchain riêng, hoạt động độc lập với nhau, bất kì ai cũng có thể tham gia vào mạng lưới của nó."
+326,Cold wallet, Ví lạnh. Đây là ví tiền điện tử không được kết nối với internet hoặc bất kỳ mạng không an toàn nào khác khi không sử dụng.
+327,Contract," Trong tiền điện tử, các hợp đồng thông minh thực thi các chức năng trên blockchain."
+328,Cross-chain, Giải pháp cho phép chuyển giúp hai mạng blockchain riêng biệt có thể giao tiếp với nhau. Nói cách khác là nó cho phép tài sản có thể chuyển từ blockchain này sang một blockchain khác.
+329,Crowdloan, Việc thực hiện các dự án mới để gây quỹ thông qua DOT hoặc KSM cho các vị trí trên mạng Kusama hoặc Polkadot.
+330,Crypto Debit Card," Một loại thẻ ghi nợ cho phép người sở hữu nó trả tiền cho hàng hóa và dịch vụ bằng tiền điện tử như Bitcoin (BTC), Litecoin (LTC) và Ethereum (ETH)."
+331,Cá voi," Những tổ chức hoặc cá nhân nắm giữ một lượng tài sản rất lớn ví dụ như BTC, ETH…"
+332,DAO (Decentralized Autonomous Organization), Một hệ thống các quy tắc được mã hóa dành cho tổ chức phi tập trung.
+333,DApp (Decentralized Application), Các ứng dụng chạy trên mạng ngang hàng thay vì một máy tính trung tâm. Điều này cho phép phần mềm chạy trên internet mà không bị kiểm soát bởi một thực thể duy nhất.
+334,DC, Một chiến lượt chia nhỏ số tiền để đầu tư cố định và thường xuyên bất kể giá của tài sản.
+335,DEX (Decentralized Exchange), Một sàn giao dịch phi tập trung. Người dùng có thể giao dịch trực tiếp từ ví của họ mà không phải nạp tiền vào sàn
+336,DeF, Một hệ sinh thái bao gồm các ứng dụng phi tập trung được phát triển trên các mạng lưới blockchain khác nhau.
+337,Double Spending, Một loại tiền điện tử nhất định có thể được chi tiêu gấp đôi. Thường là hệ quả của 51% attack hoặc race attack.
+338,Downtrend, Thể hiện một xu hướng giảm giá của thị trường có thể trong ngắn hạn hoặc dài hạn.
+339,E-Signature," Chữ ký điện tử là một thuật ngữ rộng cho bất kỳ loại chữ ký nào ở định dạng điện tử. Đề cập đến dữ liệu ở dạng điện tử được đính kèm với dữ liệu khác ở dạng điện tử và được người ký sử dụng để ký, được sử dụng trong giao dịch điện tử."
+340,EMA (Exponential Moving Average), Một loại đường trung bình di chuyển mang lại nhiều trọng lượng hơn cho các mức giá gần đây trong tính toán. Điều này khiến nó phản ứng nhanh hơn với những thay đổi giá gần đây.
+341,ERC-20, Một tiêu chuẩn token trên mạng lưới Ethereum được đề xuất lần đầu vào tháng 11/2015.
+342,ERC-721, Một tiêu chuẩn kỹ thuật xác định một bộ quy tắc để phát hành NFT trong hệ sinh thái Ethereum.
+343,EVM (Ethereum Virtual Machine)," Máy ảo Ethereum, giống như một bộ xử lý hoặc máy tính cho các nhà phát triển vay sức mạnh tính toán tích lũy của nó. Các nhà phát triển sử dụng tài nguyên này để tạo smart contract và dApp."
+344,Elliott Wave," Một chỉ báo phân tích kỹ thuật, một công cụ đáng tin cậy cho các nhà quản lý danh mục đầu tư khác nhau và gợi ý rằng có thể dự đoán hợp lý các biến động giá tiền điện tử bằng cách nghiên cứu lịch sử giá khi thị trường di chuyển theo các mô hình giống như sóng do tâm lý nhà đầu tư thúc đẩy."
+345,Exchange, Địa điểm cho phép khách hàng giao dịch tiền điện tử để lấy tiền fiat hoặc các loại tiền điện tử khác.
+346,FOMO (Fear Of Missing Out), FOMO viết tắt của Fear Of Missing Out là một hiệu ứng tâm lý sợ bỏ lỡ một thứ gì đó.
+347,"FUD (Fear, Uncertainty and Doubt)"," Một chiến lượt tuyên truyền trong marketing dùng để gieo rắc nỗi sợ hãi, bất an cho khách hàng, nhà đầu tư"
+348,Fakeout," Một hành động giá phá vỡ khỏi mô hình, kháng cự, hỗ trợ sau đó nhanh chóng đảo chiều mà không tiếp tục xu hướng breakout trước đó."
+349,Fan Token, Một loại tiền điện tử được phát hành bởi một câu lạc bộ thể thao cụ thể và cho phép người sở hữu nó tham gia vào các hoạt động quản lý và đạt được phần thưởng & chiết khấu độc quyền.
+350,Fiat, Fiat là các loại tiền tệ được phát hành bởi ngân hàng trung ương.
+351,Flash Loan (Khoản vay nhanh), Một giao dịch trong đó một lượng thanh khoản cụ thể được vay và hoàn trả trong cùng một giao dịch hoặc block.
+352,Flash Loan Attack, Những cuộc tấn công lợi dụng hình thức cho vay nhanh (flash loan) và những lỗ hổng trong giao thức để trục lợi cho cá nhân.
+353,Fork (Blockchain)," Các nhánh hoặc tách chuỗi, tạo ra một phiên bản thay thế của chuỗi khối, để hai chuỗi khối chạy đồng thời."
+354,Futures Contract, Một thỏa thuận bên mua và bán về mức giá của một loại tài sản cụ thể trong tương lai.
+355,GameFi," Sự kết hợp của DeFi, NFT và các game online dựa trên blockchain."
+356,Gas, Cơ chế định giá được sử dụng trên chuỗi khối Ethereum để tính toán chi phí của các hoạt động hợp đồng thông minh và phí giao dịch.
+357,Gems, Thuật ngữ để chỉ những đồng tiền vốn hóa thấp tương đối ít được biết đến nhưng có tiềm năng to lớn hoặc bị định giá quá thấp.
+358,Genesis Block, Khối đầu tiên được ghi lại trên mạng lưới blockchain.
+359,Golden Cross, Một tín hiệu tăng giá khi đường trung bình động ngắn hạn (MA50) vượt lên trên đường trung bình động dài hạn (MA200).
+360,Google Authenticator, Hệ thống xác minh dựa trên phần mềm tạo mã một lần duy nhất dựa trên thời gian sử dụng trên điện thoại di động của bạn.
+361,Governance Token, Một token có thể được sử dụng để bỏ phiếu cho các quyết định ảnh hưởng đến hệ sinh thái.
+362,Gwei, Một đơn vị nhỏ nhất của Ether. Nó thường được dùng để đo lượng gas được sử dụng khi giao dịch. 1.000.000.000 wei = 1 Giga wei (Gwei)
+363,HODL, Một hành động giữ tài sản tiền điện tử mà không bán. Đây là từ viết nhầm của từ “HOLD” có nguồn gốc từ Bitcointalk. Nhiều người còn cho rằng HODL là viết tắt của Hold On for Dear Life.
+364,Halving, Sự kiện giảm 1/2 phần thưởng khối. Đây là một cơ chế làm giảm tỷ lệ phát hành ra coin mới
+365,Hard Cap," Số tiền tối đa mà một dự án dự định huy động trong quá trình ICO, IEO,…"
+366,Hash Rate, Đơn vị do lường tốc độ mà máy tính hoặc phần cứng khai thác có thể tính toán các hash mới
+367,Hot Wallet," Một ví tiền điện tử được kết nối với internet để lưu trữ các loại tiền điện tử, trái ngược với một cold wallet ngoại tuyến."
+368,ICO (Initial Coin Offering), Một hình thức gọi vốn của các dự án crypto. Dự án sẽ bán tiền điện tử của họ cho các nhà đầu tư
+369,IEO (Initial Exchange Offering), Một hình thức gọi vốn của các dự án tiền điện tử được đảm bảo bởi sàn giao dịch
+370,IPFS (InterPlanetary File System), Một giao thức để lưu trữ và truy cập nội dung phân tán.
+371,IPO (Initial Public Offering), Hoạt động của các công ty lần đâu tiên mở bán cổ phiếu của mình ra công chúng
+372,Impermanent Loss, Thuật ngữ chỉ khi nhà cung cấp thanh khoản bị mất tiền tạm thời do sự biến động trong một cặp giao dịch.
+373,Internet of Things (IoT)," Một mạng lưới thiết bị, cảm biến và phần mềm được kết nối với nhau toàn cầu có thể thu thập và trao đổi dữ liệu với nhau theo thời gian thực qua Internet."
+374,Invest, Chỉ hành động bạn bỏ tiền vào một kế hoạch tài chính với mục đích kiếm lời.
+375,KYC (Know Your Customer), Một quy trình tiêu chuẩn trong ngành tài chính cho phép các công ty xác định danh tính khách hàng của họ và tuân thủ AML.
+376,Keylogger," Một chức năng ghi lại hoặc tổ hợp phím trên máy tính. Trong tay tội phạm mạng, keylogger là một công cụ để lấy cắp thông tin của bạn."
+377,Large Cap, Các dự án và tổ chức được thành lập có vốn hóa thị trường từ 10 tỷ đô la trở lên
+378,Layer 0," Còn được gọi là Layer truyền dữ liệu, là Layer dưới cùng của mô hình OSI và chủ yếu liên quan đến sự tích hợp giữa blockchain và các mạng truyền thống."
+379,Layer 2, Một framework hoặc giao thức được xây dựng trên blockchain hiện có để cung cấp khả năng mở rộng
+380,Layer-1 Blockchain, Một tập hợp các giải pháp cải thiện chính giao thức cơ sở.
+381,Lightning Network," Một layer 2 hoạt động trên blockchain hiện có, cho phép tăng tốc độ giao dịch giữa các nút tham gia."
+382,Limit Order/Limit Buy/Limit Sell, Các công cụ cho phép các nhà giao dịch tự động mua hoặc bán tiền điện tử trên nền tảng giao dịch khi đạt được một mục tiêu giá nhất định.
+383,Limit order, Một loại lệnh để mua hoặc bán một tiền điện tử ở một mức giá cụ thể hoặc một mức giá tốt hơn.
+384,Liquidation," Thanh lý đề cập đến việc chuyển đổi của một tài sản hoặc cryptocurrency cho fiat hoặc tương đương của nó như Tether (USDT) và khác stablecoin. Trong ngành công nghiệp tiền điện tử, Forced Liquidation hay thanh lý bắt buộc xảy ra với giao dịch ký quỹ trong đó vị thế của nhà giao dịch tự động đóng khi họ không duy trì được nhu cầu của vị thế đòn bẩy."
+385,Liquidity, Khả năng bán hoặc mua bất kỳ tài sản nhất định nào mà không gây ra biến động đáng kể về giá thị trường của tài sản đó.
+386,Liquidity Bootstrapping Pool (LBP), Một Smart Pool với chức năng thay đổi tỷ trọng các token trong Pool theo thời gian đã được định sẵn.
+387,Liquidity Mining, Một cơ chế hoặc quy trình trong đó những người tham gia cung cấp tiền điện tử vào các nhóm thanh khoản (Liquidity pool) và được thưởng bằng phí và token dựa trên phần của họ.
+388,Liquidity Pool, Các tài sản tiền điện tử được lưu giữ để tạo điều kiện thuận lợi cho việc giao dịch các cặp giao dịch trên các sàn giao dịch phi tập trung.
+389,Liquidity Provider, Những người dùng trao đổi phi tập trung tài trợ cho nhóm thanh khoản (Liquidity pool) bằng các token mà họ sở hữu.
+390,Long, Một tình huống trong đó bạn mua tiền điện tử với kỳ vọng bán nó với giá cao hơn để thu lợi nhuận sau này.
+391,Low Cap, Các dự án và tổ chức được thành lập có vốn hóa thị trường dưới 50 triệu đô la.
+392,Mainnet, Một blockchain hoàn chỉnh được khởi chạy sau giai đoạn testnet.
+393,Margin Trading, Một hình thức giao dịch với vốn vay hay còn gọi là giao dịch ký quỹ.
+394,Market," Một khu vực hoặc đấu trường, trực tuyến hoặc ngoại tuyến, trong đó các giao dịch thương mại được thực hiện."
+395,Market Maker, Nhà giao dịch đặt lệnh giới hạn lên thị trường. Market Maker cung cấp tính thanh khoản và độ sâu cho thị trường và thu lợi nhuận từ chênh lệch giá trong việc thực hiện mua bán.
+396,Market Taker, Những người tham gia thị trường trong giao dịch tìm kiếm thanh khoản ngay lập tức để thực hiện giao dịch và vị thế của họ. Tức là người đi khớp lệnh từ sổ lệnh được Market Maker đã tạo.
+397,Market cap (Market Capitalization), Tổng giá trị giao dịch của một loại tiền điện tử nhất định – được tính bằng: số cung của đồng tiền đó * giá hiện tại.
+398,Masternode, Các node trên mạng thường yêu cầu stake số lượng tối thiểu của một coin nhất định được để nhận phần thưởng staking.
+399,Max Supply, Số lượng đồng coin mà một dự án phát hành tối đa.
+400,Maximum Supply, Số lượng coin hoặc token sẽ được tạo ra tối đa cho một loại tiền điện tử nhất định.
+401,Memecoin, Một loại tiền điện tử có nguồn gốc từ một meme trên Internet hoặc có một số đặc điểm hài hước khác.
+402,Metaverse, Một vũ trụ kỹ thuật số chứa tất cả các khía cạnh của thế giới thực.
+403,Mid Cap, Các dự án và tổ chức được thành lập có vốn hóa thị trường từ 1 tỷ đô la đến 10 tỷ đô la.
+404,Miner, Những người đóng góp vào một chuỗi khối tham gia vào quá trình khai thác.
+405,Mining, Là quá trình xác minh các giao dịch trên mạng lưới blockchain.
+406,Mining Pool, Một sự sắp xếp trong đó một số thợ đào (miner) tổng hợp tài nguyên của họ để tăng cơ hội tìm thấy khối tiếp theo.
+407,Mining Reward, Thu nhập mà các thợ đào nhận được sau khi tìm và xác thực một khối.
+408,Money Flow Index (MFI), Chỉ số dòng tiền là một chỉ báo kỹ thuật đo lường áp lực mua hoặc bán của một tài sản thông qua giá và khối lượng.
+409,Moon, Một từ diễn tả xu hướng tăng giá của tài sản mã hóa hoặc các loại tài sản khác.
+410,Moving Average (MA), Đường trung bình động (MA) là một chỉ báo kỹ thuật phản ứng với xu hướng của thị trường tài chính và được các chuyên gia thị trường sử dụng để dự đoán hướng xu hướng của tài sản.
+411,Multi-chain," Đề cập đến đa chuỗi hay đa nền tảng. Nếu một dự án được triển khai trên multichain nghĩa là dự án đang triển khai trên hai hoặc nhiều chuỗi Ethereum, BSC, hay các blockchain nào khác."
+412,Multisignature, Một lớp bảo mật bổ sung bằng cách yêu cầu nhiều hơn một khóa để cho phép một giao dịch.
+413,NF, Một loại mã thông báo đại diện cho một tài sản kỹ thuật số hoặc tài sản ở thế giới thực. Mã thông báo này là độc nhất và không thể hoán đổi cho nhau.
+414,Node, Một người tham gia trên mạng blockchain giao tiếp với những người tham gia khác để đảm bảo tính bảo mật và tính toàn vẹn của hệ thống.
+415,Non-Custodial," Thông thường đề cập đến việc lưu trữ khóa. Nó liên quan đến ví hoặc sàn giao dịch. Đây là một thiết lập trong đó private key được người dùng trực tiếp nắm giữ. Không một ai kể cả nhà cung cấp ví được quyền truy cập, đóng băng hay giao dịch tài sản của chủ sở hữu ví."
+416,OTC," Giao dịch được thực hiện bên ngoài sàn giao dịch, thường là ngang hàng thông qua các giao dịch tư nhân."
+417,Off-chain," Các giao dịch xảy ra ngoài một mạng blockchain nhất định, sau này có thể được báo cáo hoặc theo nhóm với nhau trước khi được gửi đến chuỗi chính."
+418,On-chain, Các giao dịch được ghi lại trên chính blockchain và được hiển thị cho tất cả các nút (node) trên mạng blockchain.
+419,Open-source," Đề cập việc những người tham gia vào những thông tin được phát hành miễn phí àm người dùng có thể sửa đổi hoặc thêm một số cập nhật, tính năng vượt trội khác để nhằm theo đuổi lợi ích chung lớn hơn."
+420,Opensea, Một nền tảng P2P phi tập trung cho giao dịch NFT.
+421,Options Market," Một thị trường công khai cho các quyền chọn, cung cấp cho người mua quyền chọn mua hoặc bán tiền điện tử với một mức giá thực tế cụ thể, vào hoặc trước một ngày cụ thể."
+422,Oracle, Nguồn dữ liệu hoặc nguồn cấp dữ liệu từ bên thứ ba được sử dụng để xác định kết quả cho các hợp đồng thông minh (smart contract)
+423,Order book, Danh sách điện tử các lệnh mua và bán chưa thanh toán cho một tài sản cụ thể trên sàn giao dịch hoặc thị trường.
+424,Oversold," Đề cập một loại tiền điện tử được bán bởi nhà đầu tư ngày càng nhiều theo thời gian, với việc giá của nó giảm trong một thời gian dài."
+425,Pair," Giao dịch giữa một loại tiền điện tử này với một loại tiền điện tử khác, chẳng hạn như cặp giao dịch BTC / ETH."
+426,Parachai, Cấu trúc dữ liệu dành riêng cho ứng dụng chạy song song với nhau trong Polkadot.
+427,Peer-to-Peer (P2P), Cơ sở hạ tầng công nghệ thông tin cho phép hai hoặc nhiều hệ thống máy tính kết nối và chia sẻ tài nguyên mà không yêu cầu máy chủ hay nói chung là bên thứ 3 can thiệp.
+428,Permissionless," Thường được sử dụng để mô tả các blockchain, một hệ thống được cho là không được phép khi không có thực thể nào có thể quy định ai có thể sử dụng nó và cách sử dụng nó."
+429,Perpetual Contract, Một sản phẩm phái sinh nhưng khác với futures contract vì nó không có ngày đáo hạn.
+430,Platform," Với không gian tiền điện tử và blockchain, thuật ngữ đề cập đến blockchain mẹ của các token hay có thể đề cập đến một sàn giao dịch mà bạn có thể giao dịch tiền điện tử."
+431,Play-to-Ear, Một nền kinh tế mở và trao phần thưởng tài chính cho những người chơi mang lại giá trị cho metaverse của nó.
+432,Ponzi Scheme, Một khoản đầu tư gian lận liên quan đến việc thanh toán lợi nhuận có chủ đích cho các nhà đầu tư hiện tại từ các quỹ do các nhà đầu tư mới đóng góp.
+433,Portfolio," Tập hợp hoặc danh mục các loại tiền điện tử hoặc tài sản tiền điện tử do một công ty đầu tư, quỹ đầu cơ, tổ chức tài chính hoặc cá nhân nắm giữ."
+434,Pre-IDO, Đề cập đến việc cung cấp mã thông báo trước khi cung cấp DEX ban đầu thực sự (IDO) diễn ra.
+435,Pre-Sale," Việc bán tiền điện tử, trước khi nó được công khai, cho các nhà đầu tư cụ thể."
+436,Private Key," Thường được nhắc đến với ví tiền điện tử, một định dạng chuỗi ký tự để kết nối với tài khoản, khá giống với mật khẩu của tài khoản ngân hàng. Để có thể sử dụng được số tiền trong ví mã này phải khớp với khóa công khai (Public Key)."
+437,Proof-of-Stak, Một giao thức đồng thuận hay một tập hợp các quy tắc được sử dụng để xác thực các giao dịch tiền điện tử thông qua việc đặt cược (staking).
+438,Proof-of-Wor, Thuật toán đồng thuận đầu tiên được tạo ra trong Blockchain. Tiền điện tử như Bitcoin đang sử dụng sự PoW để xác nhận các giao dịch và tạo ra các block mới được thêm vào chain.
+439,Protocol," Tập hợp các quy tắc xác định các tương tác trên mạng, thường liên quan đến sự đồng thuận, xác thực giao dịch và tham gia mạng trên một blockchain."
+440,Public Key," Một chuỗi các số ngẫu nhiên và có thể được sử dụng để mã hóa một tin nhắn, mà chỉ người nhận đã dự kiến mới có thể giải mã và đọc bằng cách sử dụng private key được liên kết."
+441,Public Sale," Khoảng thời gian tài sản hoặc dịch vụ được tung ra thị trường và được cung cấp cho tất cả khách hàng mua. Thường được tiến hành trên các nền tảng và trang web trao đổi như sàn DEX và sàn CEX theo hình thức ICO, IDO, IEO đối với tiền điện tử."
+442,Pump," Trong crypto, nó được sử dụng để chỉ hành động mua một số lượng lớn coin/token nhằm đẩy nhu cầu và giá lên cao."
+443,QR Code, Một dạng thông tin được mã hóa để hiển thị sao cho máy có thể đọc được.
+444,REKT," Một khoản lỗ hay tài khoản bị chia của một nhà giao dịch, nó cùng dùng để nói vui về việc một đồng coin mới mua bị giảm giá rất sâu và còn nhiều trường hợp khác."
+445,ROI, Tỷ lệ giữa lợi nhuận ròng và chi phí đầu tư.
+446,RSI (Relative Strength Index), Chỉ số sức mạnh tương đối. Đây là một bộ dao động động lượng đo độ lớn của biến động giá cũng như tốc độ của các biến động này. Nó cùng là một chỉ số phân tích kỹ thuật quan trọng.
+447,Rank, Vị trí của một loại tiền điện tử được xếp hạng theo vốn hóa thị trường.
+448,Ransomware, Một loại phần mềm độc hại được tin tặc sử dụng để đánh cắp hoặc mã hóa tệp của nạn nhân nhằm tống tiền họ để đòi tiền chuộc nhằm đổi lấy việc giải mã hoặc khôi phục tệp.
+449,Replay chain, Chuỗi trung tâm được sử dụng bởi mạng Polkadot.
+450,Resistance," Kháng cự. Điểm cao nhất trên biểu đồ mà khi giá di chuyển đến mức đó, thị trường sẽ gặp khó khăn để phá vỡ nó."
+451,Roadmap, Bản tóm tắt trực quan giúp vạch ra tầm nhìn cũng như hướng đi của một sản phẩm cụ thể.
+452,Rug Pull, Một dạng lừa đảo trong đó các nhà phát triển từ bỏ một dự án và lấy tiền của các nhà đầu tư của họ.
+453,SEC, Ủy ban Chứng khoán và Giao dịch (SEC) là một cơ quan chính phủ độc lập chịu trách nhiệm điều tiết thị trường chứng khoán.
+454,SHO (Strong Holder Offering), Cơ chế gây quỹ mà các nhà đầu tư đủ điều kiện được lựa chọn dựa trên các hoạt động on-chain và các bộ dữ liệu khác.
+455,Satoshi (SATS)," Đơn vị bitcoin nhỏ nhất có giá trị là 0,00000001 BTC."
+456,Satoshi Nakamot, Cá nhân hoặc tên một nhóm cá nhân đã tạo ra Bitcoin.
+457,Scam, Kế hoạch được thiết kế để lừa đảo người dùng để chiếm đoạt tiền điện tử của mọi người.
+458,Scamcoin, Các đồng tiền được tạo ra dưới dạng “kế hoạch làm giàu nhanh chóng hay bơm thổi” bởi các nhà phát triển của họ.
+459,Scammer, Người tham gia kế hoạch scam.
+460,Scholarship / Scholar," Dùng phổ biến trong Axie Infinity, quá trình các nhà quản lý cho các “học giả – Scholar ” mượn Axie miễn phí của họ, những người mới tham gia trò chơi và không có đủ tiền để thành lập một đội gồm ba quái vật NFT cần thiết để chơi trò chơi."
+461,Security Token, Một dạng kỹ thuật số của chứng khoán truyền thống. Chủ sở hữu Security Token có thể nhận được nhiều lợi ích tương tự như cổ phiếu và các loại chứng khoán khác.
+462,Seed Phrase," Còn được gọi là cụm từ khôi phục, cụm từ dự phòng hoặc cụm từ ghi nhớ. Nó đề cập đến một danh sách được tạo từ 12 đến 24 từ, theo một thứ tự cụ thể, được người dùng ví tiền điện tử sử dụng để lấy lại quyền truy cập và kiểm soát tiền của họ trên chuỗi."
+463,Sell Wall, Một tình huống trong đó một lệnh limit lớn đã được đặt để bán khi tiền điện tử đạt đến một giá trị nhất định.
+464,Sharding, Một cách tiếp cận mở rộng quy mô cho phép chia các trạng thái blockchain thành các phân vùng chứa các trạng thái và lịch sử giao dịch. Mỗi phân đoạn có thể được xử lý song song.
+465,Shitcoin, Một đồng coin không có giá trị hoặc tiềm năng sử dụng không có thông tin rõ ràng.
+466,Smart contract," Một thỏa thuận giữa hai người hoặc thực thể dưới dạng mã máy tính được lập trình để thực thi tự động. Hợp đồng thông minh được thực hiện trên blockchain, có nghĩa là các điều khoản được lưu trữ trong cơ sở dữ liệu phân tán và không thể thay đổi."
+467,Snapshot," Đề cập đến khả năng ghi lại trạng thái của một thứ gì đó tại một thời điểm cụ thể. Trong blockchain, Snapshot đề cập đến hành động ghi lại trạng thái một blockchain ở một chiều cao block cụ thể."
+468,Stablecoin," Một loại tiền điện tử được thiết kế để duy trì giá trị ổn định, thay vì trải qua những thay đổi đáng kể về giá."
+469,Support," Hỗ trợ. Trái ngược với Resistance, support là điểm thấp nhất trên biểu đồ mà khi giá di chuyển đến mức đó, thị trường sẽ gặp khó khăn để phá vỡ nó."
+470,Symbol," Mã của một loại tiền điện tử; ví dụ, biểu tượng của Bitcoin là BTC."
+471,Synthetic Asset," Tài sản tổng hợp, đôi khi được gọi là synths, là sự kết hợp của tiền điện tử và tài sản phái sinh truyền thống."
+472,Taproot, Một bản nâng cấp cho Bitcoin nhằm mục đích cải thiện tính riêng tư và hiệu quả mạng lưới của nó.
+473,Technical Analysis (TA)," Phương pháp hay gọi là một công cụ được sử dụng để dự đoán biến động giá có thể xảy ra trong tương lai của tiền điện tử, cổ phiếu,… dựa trên dữ liệu thị trường."
+474,Technical Indicator," Sự tính toán dựa trên giá, khối lượng hay lãi suất mở của một chứng khoán hoặc một hợp đồng, được những người giao dịch theo phân tích kỹ thuật sử dụng."
+475,Testnet," Một thuật ngữ chỉ cơ chế thử nghiệm các blockchain. Thông qua mạng này, các nhà phát triển có thể thực hiện các thử nghiệm mà không có nguy cơ ảnh hưởng đến hoạt động chính xác của mạng chính."
+476,Token, Một loại tài sản kỹ thuật số được tạo ra trên Blockchain đã có sẵn.
+477,Token Generation Event (TGE), Thời điểm token được phát hành.
+478,Token Sale, Đề cập đến việc cung cấp lần đầu token tiền điện tử cho một nhóm các nhà đầu tư tư nhân trước khi nó chính thức được bán trên thị trường.
+479,Token Standard, Một bộ các tiêu chuẩn mà những token được phát triển trên một nền tảng blockchain nào đó. Ví dụ ERC-20 lại là tiêu chuẩn phổ biến nhất cho các token hoạt động trên blockchain Ethereum.
+480,Tokenomics, Thể hiện bản chất mô hình kinh tế học của các tài sản tiền điện tử. Nó bao gồm một tập hợp các quy tắc điều chỉnh việc phát hành và cung cấp tiền điện tử.
+481,Total Supply," Tổng số coin/token hiện có, trừ đi bất kỳ số tiền nào đã được đốt."
+482,Total Value Locked (TVL)," Một chỉ số thể hiện cho tổng giá trị của tất cả tài sản được gửi vào các giao thức tài chính phi tập trung (DeFi) để kiếm thưởng, lãi suất, token mới,…"
+483,Trade volume, Khối lượng tiền điện tử đã được giao dịch trong 24 giờ qua.
+484,Trading bot, Một chương trình được thiết kế để tự động hóa giao dịch tài sản tiền điện tử thay mặt cho nhà giao dịch.
+485,Transaction (TX), Hành động trao đổi tiền điện tử trên blockchain.
+486,Transaction Fee, Một khoản thanh toán cho việc sử dụng blockchain để giao dịch.
+487,Two-Factor Authentication (2FA), Xác thực hai yếu tố (2FA) là phương pháp truy cập yêu cầu hai hình thức xác thực khác nhau.
+488,Uptrend, Thể hiện một xu hướng tăng giá của thị trường có thể trong ngắn hạn hoặc dài hạn.
+489,Utility token, Các token được thiết kế đặc biệt để có thể giúp mọi người sử dụng thứ gì đó.
+490,Validator, Một người tham gia vào blockchain có cơ chế đồng thuận Poof of Stake. Họ tham gia vào việc xác nhận các block để nhận phần thưởng.
+491,Venture Capital," Một dạng vốn cổ phần tư nhân được cung cấp để tài trợ cho các doanh nghiệp nhỏ, ở giai đoạn đầu được coi là có tiềm năng tăng trưởng cao."
+492,Virtual Automated Market Makers (vAMMs)," Một hệ thống cung cấp tính thanh khoản tổng hợp (hoặc ảo), cho phép các nhà giao dịch mua và bán các dẫn xuất hoàn toàn trên blockchain."
+493,Virtual Reality (VR), Việc sử dụng công nghệ máy tính để tạo ra một môi trường giả lập có thể được khám phá ở góc nhìn 360 độ.
+494,Vitalik Buteri," Một trong những người tạo ra Ethereum, tiền điện tử lớn thứ hai sau Bitcoin."
+495,Volume," Khối lượng tiền điện tử đã được giao dịch trong một khoảng thời gian nhất định, chẳng hạn như 24 giờ qua."
+496,Wallet," Một nơi mà người dùng tiền điện tử có thể lưu trữ, gửi và nhận tài sản."
+497,Watchlist, Một tính năng của trang web nơi người dùng có thể tạo danh sách tiền điện tử của riêng họ để theo dõi.
+498,Weak Hand, Đề cập việc nhà giao dịch có xu hướng hoảng sợ và bán ra khi tiền điện tử có dấu hiệu giảm giá đầu tiên.
+499,Web 1.0, Một thuật ngữ thường được sử dụng để mô tả phiên bản đầu tiên của Internet.
+500,Web 2.0," Mô tả trạng thái hiện tại của web, hỗ trợ nhiều nội dung do người dùng tạo hơn và tính ổn định cho người dùng phổ thông hơn so với Web 1.0"
+501,Web 3., Thế hệ mới của internet.
+502,Web3 Foundation, Được thành lập để thúc đẩy các công nghệ và ứng dụng mới trong lĩnh vực giao thức phần mềm web phi tập trung.
+503,Wei," Phần nhỏ nhất của Ether, với mỗi Ether là 1000000000000000000 Wei."
+504,Whitepaper, Một tài liệu được phát hành bởi một dự án crypto cung cấp cho các nhà đầu tư thông tin kỹ thuật về khái niệm của dự án và lộ trình ghi lại kế hoạch phát triển của dự án.
+505,YTD, Từ đầu năm cho đến hiện tại.
+506,Yield Farming, Đề cập liên quan đến việc kiếm lãi bằng cách đầu tư tiền điện tử vào các thị trường tài chính phi tập trung.
+507,Zero Confirmation Transaction, Cụm từ thay thế cho một giao dịch chưa được xác nhận.
+508,Zero-Knowledge Proof, Cho phép một bên cung cấp bằng chứng rằng một giao dịch hoặc sự kiện đã xảy ra mà không tiết lộ chi tiết riêng tư của giao dịch hoặc sự kiện đó.
+509,Zk-SNARK, Bằng chứng cho phép một bên chứng minh mình sở hữu một số thông tin nhất định mà không cần tiết lộ thông tin đó.
+510,Tiếng Anh,Tiếng Việt
+511,Artificial Intelligence (AI),Trí tuệ nhân tạo
+512,Machine Learning (ML),Máy học hoặc học máy
+513,Deep Learning (DL),Học sâu
+514,Natural Language Processing (NLP),Xử lý ngôn ngữ tự nhiên
+515,Computer Vision (CV),Thị giác máy tính
+516,Explainable Artificial Intelligence (XAI),AI có khả năng giải thích
+517,Artificial Neural Networks (ANNs),Mạng nơ-ron nhân tạo
+518,Natural Language Understanding (NLU),Hiểu ngôn ngữ tự nhiên
+519,Question Answering (QA),Hệ thống hỏi đáp
+520,accuracy,độ chính xác
+521,activation function,hàm kích hoạt
+522,adversarial learning,học đối kháng
+523,agent,tác nhân
+524,algorithm’s performance,chất lượng thuật toán
+525,alternative hypothesis,giả thuyết đối
+526,analytical solution,nghiệm theo công thức
+527,analogy,loại suy
+528,anchor box,khung neo
+529,approximate inference,suy luận gần đúng
+530,approximate training,huấn luyện gần đúng
+531,argument (in programming),đối số
+532,artificial data synthesis,tổng hợp dữ liệu nhân tạo
+533,artificial general intelligence (AGI),trí tuệ nhân tạo phổ quát
+534,attention mechanisms,cơ chế tập trung
+535,automatic differentiation,tính vi phân tự động
+536,autoregressive,tự hồi quy
+537,average pooling,gộp trung bình
+538,avoidable bias,độ chệch tránh được
+539,backend,back-end
+540,background noise,nhiễu nền
+541,backpropagation,lan truyền ngược
+542,backpropagation through time,lan truyền ngược qua thời gian
+543,backward pass,lượt truyền ngược
+544,bag of words,túi từ
+545,bandit,máy đánh bạc
+546,batch,batch
+547,batch normalization,chuẩn hóa theo batch
+548,batch size,kích thước batch
+549,beam search,tìm kiếm chùm
+550,benchmark,đánh giá xếp hạng
+551,bias (model parameter),hệ số điều chỉnh
+552,bias (of an estimator),độ chệch
+553,bias-variance tradeoff,đánh đổi độ chệch - phương sai
+554,bidirectional recurrent neural network,mạng nơ-ron hồi tiếp hai chiều
+555,big data,big data
+556,binomial distribution,phân phối nhị thức
+557,blackbox dev set,tập phát triển blackbox
+558,bounding box,khung chứa
+559,broadcast,lan truyền
+560,bus,bus
+561,cache,bộ nhớ đệm
+562,(strictly) convex function,hàm lồi (chặt)
+563,candidate hidden state,trạng thái ẩn tiềm năng
+564,candidate memory,ô nhớ tiềm năng
+565,categorical variable,biến hạng mục
+566,category,hạng mục
+567,causality,quan hệ nhân quả
+568,central target word,từ đích trung tâm
+569,central word,từ trung tâm
+570,chain rule,quy tắc dây chuyền
+571,channel (in computer vision),kênh
+572,(model) checkpoint,checkpoint (của mô hình)
+573,classifier,bộ phân loại
+574,closed-form solution,biểu thức dạng đóng
+575,cloud computing,điện toán đám mây
+576,clustering,phân cụm
+577,code (noun),mã nguồn
+578,code (verb),viết mã
+579,coefficient,hệ số
+580,collaborative filtering,lọc cộng tác
+581,command line (interface),cửa sổ dòng lệnh
+582,computational graph,đồ thị tính toán
+583,computer vision,thị giác máy tính
+584,computing (in computer science),điện toán
+585,concatenate,nối
+586,conditional distribution,phân phối có điều kiện
+587,confidence interval,khoảng tin cậy
+588,confidence level,mức tin cậy
+589,confusion matrix,ma trận nhầm lẫn
+590,constrain,ràng buộc
+591,content loss (in style transfer),mất mát nội dung
+592,context-independent,độc lập ngữ cảnh
+593,context-sensitive,nhạy ngữ cảnh
+594,convex combination,tổ hợp lồi
+595,convex optimization,tối ưu lồi
+596,convex set,tập lồi
+597,convolutional neural network,mạng nơ-ron tích chập
+598,corpus,kho ngữ liệu
+599,coreference resolution,phân giải đồng tham chiếu
+600,correlation coefficient,hệ số tương quan
+601,cosine,cô-sin
+602,cost function,hàm chi phí
+603,covariate,hiệp biến
+604,crop (image),cắt (ảnh)
+605,cross correlation,tương quan chéo
+606,cross entropy,entropy chéo
+607,cross validation,kiểm định chéo
+608,data,dữ liệu
+609,data augmentation,tăng cường dữ liệu
+610,data manipulation,thao tác với dữ liệu
+611,data mismatch,dữ liệu không tương đồng
+612,data science,khoa học dữ liệu
+613,data scientist,nhà khoa học dữ liệu
+614,datapoint (data point),điểm dữ liệu
+615,dataset (data set),tập dữ liệu
+616,deep learning,học sâu
+617,deferred initialization,khởi tạo trễ
+618,dense layer,tầng kết nối dày đặc
+619,densely connected network,mạng tích chập kết nối dày đặc
+620,dev set,tập phát triển
+621,dev set performance,chất lượng trên tập phát triển
+622,development set,tập phát triển
+623,differentiable,khả vi
+624,dimension,chiều
+625,dimensionality,kích thước chiều
+626,distributed,phân tán
+627,distribution,phân phối
+628,domain adaptation,thích ứng miền
+629,downsample,giảm mẫu
+630,downstream task,tác vụ xuôi dòng
+631,dot product,tích vô hướng (hoặc tích trong)
+632,dropout,dropout
+633,early stopping,dừng sớm
+634,edge (in computer vision),biên
+635,edge detector,bộ phát hiện biên
+636,effect size,hệ số ảnh hưởng
+637,eigen-decomposition,phân rã trị riêng
+638,eigenvalue,trị riêng
+639,eigenvector,vector riêng
+640,elementwise,(theo) từng phần tử
+641,embedding,embedding
+642,encoder-decoder architecture,kiến trúc mã hóa - giải mã
+643,end-to-end,đầu-cuối
+644,epoch (in training),epoch (khi huấn luyện)
+645,error analysis,phân tích lỗi
+646,error rate,tỉ lệ lỗi
+647,estimator,bộ ước lượng
+648,evaluation metric,phép đánh giá
+649,example,mẫu
+650,expectation,kỳ vọng
+651,explicit feedback,phản hồi trực tiếp
+652,exploding gradient,bùng nổ gradient
+653,exponential distribution,phân phối mũ
+654,expression (in math),biểu thức (toán học)
+655,eyeball dev set,tập phát triển eyeball
+656,exponential weighted moving average,trung bình động trọng số mũ
+657,F1 score,chỉ số F1
+658,false negative,âm tính giả
+659,false positive,dương tính giả
+660,feature,đặc trưng
+661,feature extraction,trích xuất đặc trưng
+662,feature map (in CNN),ánh xạ đặc trưng
+663,feed-forward network (FNN),mạng truyền xuôi
+664,fine-tuning,tinh chỉnh
+665,filter (in CNN),bộ lọc
+666,fit,khớp
+667,first principle,định đề cơ bản
+668,flatten,trải phẳng
+669,forward pass,lượt truyền xuôi
+670,forward inference,suy luận xuôi
+671,framework,framework
+672,frontend,front-end
+673,frozen weight (freeze weight),trọng số bị đóng băng (đóng băng trọng số)
+674,functional analysis,giải tích hàm
+675,fully-connected,kết nối đầy đủ
+676,fully convolutional network,mạng tích chập đầy đủ
+677,Gaussian distributio n,phân phối Gauss (phân phối chuẩn)
+678,Gaussian noise,nhiễu Gauss
+679,gated recurrent unit,nút hồi tiếp có cổng
+680,generalizat ion error,lỗi khái quát
+681,generalizat ion gap,khoảng cách khái quát
+682,generalizat ion loss,mất mát khái quát
+683,generative adversarial network,mạng đối sinh
+684,generative model,mô hình sinh
+685,global interpreter lock,khóa trình thông dịch toàn cục
+686,global maximum,giá trị lớn nhất
+687,global minimum,giá trị nhỏ nhất
+688,gradient clipping,gọt gradient
+689,gradient descent,hạ gradient
+690,graphical model,mô hình đồ thị
+691,greedy algorithm,thuật toán tham lam
+692,greedy search,tìm kiếm tham lam
+693,ground truth,nhãn gốc
+694,growth rate,tốc độ tăng trưởng
+695,hand-engi neering,thiết kế thủ công
+696,helper (function ),(hàm) hỗ trợ
+697,heuristic,thực nghiệm
+698,hybrid(iz e),hybrid (hóa)
+699,hidden state,trạng thái ẩn
+700,hidden state variable,biến trạng thái ẩn
+701,hidden unit,nút ẩn
+702,hidden variable,biến ẩn
+703,human-lev el performan ce,chất lượng mức con người
+704,hyperpara meter,siêu tham số
+705,hyperplan e,siêu phẳng
+706,hypothesi s test,kiểm định giả thuyết
+707,inference (in model training and inference),dự đoán / suy luận
+708,(statistical) inference,suy luận (thống kê)
+709,ill-conditioned,(có) điều kiện xấu
+710,image segmentation,phân vùng ảnh
+711,implement,lập trình
+712,implementation,cách lập trình
+713,implicit feedback,phản hồi gián tiếp
+714,"import (module, package)","nhập (mô-đun, gói thư viện)"
+715,imputation (in data preprocessing),quy buộc
+716,independence assumption,giả định độc lập
+717,indicator variable,biến chỉ định
+718,inductive bias,thiên kiến quy nạp
+719,initializer,bộ khởi tạo
+720,instance segmentation,phân vùng thực thể
+721,internal covariate shift,dịch chuyển hiệp biến nội bộ
+722,intersection over union (IoU),phần giao trên phần hợp
+723,iteration,vòng lặp
+724,iterator,iterator
+725,joint distribution,phân phối đồng thời
+726,k-fold cross validation,kiểm định chéo gập k-lần
+727,kernel,hạt nhân
+728,key,khóa
+729,long short-term Memory (LSTM),bộ nhớ ngắn hạn dài
+730,label smoothing,làm mượt nhãn
+731,language model(ling),mô hình (hoá) ngôn ngữ
+732,masked language model,mô hình ngôn ngữ có mặt nạ
+733,latent variable,biến tiềm ẩn
+734,law of large numbers,luật số lớn
+735,layer,tầng
+736,leaky,rò rỉ
+737,learning algorithm,thuật toán học
+738,learning curve,đồ thị quá trình học
+739,learning rate,tốc độ học
+740,learning rate schedule,định thời tốc độ học
+741,line search,tìm kiếm đường thẳng
+742,linear,tuyến tính
+743,linear algebra,đại số tuyến tính
+744,linear dependence,phụ thuộc tuyến tính
+745,linear discriminant analysis (LDA),phân tích biệt thức tuyến tính
+746,linear form,dạng tuyến tính
+747,linear independence,độc lâp tuyến tính
+748,linear programming,quy hoạch tuyến tính
+749,linear regression,hồi quy tuyến tính
+750,local maximum,cực đại
+751,local minimum,cực tiểu
+752,locality,tính cục bộ
+753,log-likelihood function,hàm log hợp lý
+754,logistic regression,hồi quy logistic
+755,logit (softmax),logit
+756,loss function,hàm mất mát
+757,loss landscape,cảnh quan mất mát
+758,loss surface,bề mặt mất mát
+759,machine learning,học máy
+760,machine translation,dịch máy
+761,marginalization,phép biên hóa
+762,mask (in computer vision),mặt nạ
+763,masked multi-head attention layer,tầng tập trung đa đầu có mặt nạ
+764,matrix factorization,phân rã ma trận
+765,max pooling,gộp cực đại
+766,maximize (in optimization),cực đại hóa
+767,maximum likelihood estimator,bộ ước lượng hợp lý cực đại
+768,mean squared error (MSE),trung bình bình phương sai số
+769,memory cell,ô nhớ
+770,metric,phép đo
+771,minibatch,minibatch
+772,minimize (in optimization),cực tiểu hóa
+773,minimizer,nghiệm cực tiểu
+774,misclassified,bị phân loại nhầm
+775,mislabeled,bị gán nhãn nhầm
+776,model,mô hình
+777,model capacity,năng lực mô hình
+778,model family,nhóm mô hình
+779,module,mô-đun
+780,moment,mô-men
+781,momentum,động lượng
+782,multi-armed bandit,máy đánh bạc đa cần
+783,multi-class classification,phân loại đa lớp
+784,multi-head attention layer,tầng tập trung đa đầu
+785,multinominal distribution,phân phối đa thức
+786,multitask learning,học đa nhiệm
+787,named entity (recognition),(nhận dạng) thực thể có tên
+788,natural language inference (NLI),suy luận ngôn ngữ tự nhiên
+789,natural language processing (NLP),xử lý ngôn ngữ tự nhiên
+790,natural language understanding (NLU),hiểu ngôn ngữ tự nhiên
+791,negative log-likelihoo d function,hàm đối log hợp lý
+792,negative sample/exampl e,mẫu âm
+793,network in network,mạng trong mạng
+794,neural network,mạng nơ-ron
+795,neural style transfer,truyền tải phong cách nơ-ron
+796,node (in neural networks),nút
+797,noise-injecti on,thêm nhiễu
+798,non-maximum suppression,triệt phi cực đại
+799,non-squashing activation function,hàm kích hoạt không ép
+800,nonstationary distribution,phân phối không dừng
+801,nonparametric,phi tham số
+802,norm,chuẩn
+803,normal distribution,phân phối chuẩn (phân phối Gauss)
+804,normalize,chuẩn hóa
+805,null hypothesis,giả thuyết gốc
+806,numerical solution,nghiệm xấp xỉ
+807,object detection,phát hiện vật thể
+808,object recognition,nhận dạng vật thể
+809,objective function,hàm mục tiêu
+810,offline learning,học ngoại tuyến
+811,offset,độ dời
+812,one-hot encoding,biễu diễn one-hot
+813,one-sided test,kiểm định một phía
+814,one-tailed test,kiểm định một đuôi
+815,optimization landscape,cảnh quan tối ưu
+816,optimizing metric,phép đo để tối ưu
+817,orthogonal,trực giao
+818,orthonormal,trực chuẩn
+819,overfit,quá khớp
+820,overflow (numerical),tràn (số) trên
+821,p-value,trị số p
+822,padding,đệm
+823,partition function,hàm phân hoạch
+824,pattern recognition,nhận dạng mẫu
+825,penalty,lượng phạt
+826,perceptron,perceptron
+827,performance,chất lượng
+828,perplexity (metric in NLP),perplexity
+829,perturbation,nhiễu
+830,pipeline,pipeline
+831,pixel (component of digital images),điểm ảnh
+832,pixel (unit of measurement),pixel (đơn vị đo)
+833,plateau (noun),vùng nằm ngang
+834,plateau (verb),nằm ngang
+835,policy (in reinforcement learning),chính sách
+836,pooling,gộp
+837,population,tổng thể
+838,position-wise feed-forward network,mạng truyền xuôi theo vị trí
+839,positional encoding,biểu diễn vị trí
+840,positive sample/example,mẫu dương
+841,posterior,hậu nghiệm
+842,precision (vs accuracy metric),precision
+843,preconditioning,tiền điều kiện
+844,premise,tiền đề
+845,pre-train,tiền huấn luyện
+846,principal component analysis (PCA),phân tích thành phần chính
+847,prior,tiên nghiệm
+848,probability theory,lý thuyết xác suất
+849,proposed region,vùng đề xuất
+850,proxy (in statistics),biến đại diện
+851,quadratic,toàn phương
+852,quadratic form,dạng toàn phương
+853,quadratic programming,quy hoạch toàn phương
+854,query,(câu) truy vấn
+855,random variable,biến ngẫu nhiên
+856,recall,recall
+857,receptive field (in CNN),vùng tiếp nhận
+858,recommender system,hệ thống đề xuất
+859,recognition,nhận dạng
+860,rectified linear unit (ReLU),đơn vị tuyến tính chỉnh lưu
+861,recurrent neural network,mạng nơ-ron hồi tiếp
+862,region of interest,vùng quan tâm
+863,region of rejection,miền bác bỏ
+864,regressor,bộ hồi quy
+865,regularization,điều chuẩn
+866,reinforcement learning,học tăng cường
+867,relative loss,mất mát tương đối
+868,remote,từ xa
+869,reparameterization,tái tham số hóa
+870,representation learning,học biểu diễn
+871,reproduce (reproducibility),tái tạo (khả năng tái tạo)
+872,rescale,(phép) tái tỉ lệ
+873,reset gate,cổng xóa
+874,residual network,mạng phần dư
+875,reward function,hàm điểm thưởng
+876,"robust (adjective for models, algorithms, systems)",mạnh mẽ
+877,robust to noise,kháng nhiễu
+878,root mean squared error (RMSE),căn bậc hai trung bình bình phương sai số
+879,running time,thời gian chạy
+880,sampling with replacement,lấy mẫu có hoàn lại
+881,sampling without replacement,lấy mẫu không hoàn lại
+882,satisficing metric,phép đo thỏa mãn
+883,scale,(phép) biến đổi tỉ lệ
+884,scalar,số vô hướng
+885,scale invariant,bất biến quy mô
+886,scoring function,hàm tính điểm
+887,serialization (programming),chuỗi hóa
+888,semantic role labeling,dán nhãn vai trò ngữ nghĩa
+889,semantic segmentation,phân vùng theo ngữ nghĩa
+890,sentiment classification (analysis),phân loại (phân tích) cảm xúc
+891,sequence-aware (recommender system),(hệ thống đề xuất) có nhận thức về chuỗi
+892,sequence learning,học chuỗi
+893,sequence to sequence,chuỗi sang chuỗi
+894,sequential partitioning,phân tách tuần tự
+895,server,máy chủ
+896,sensitivity,độ nhạy
+897,shape (in linear algebra),kích thước
+898,significance test,kiểm định ý nghĩa
+899,skip-gram (model),(mô hình) skip-gram
+900,significance test,kiểm định ý nghĩa
+901,slicing (an array),cắt chọn (mảng)
+902,source data / distribution,dữ liệu / phân phối gốc
+903,spam email,email rác
+904,speech recognition,nhận dạng giọng nói
+905,squashing function,hàm ép
+906,standard deviation,độ lệch chuẩn
+907,standardize,chuẩn tắc hóa
+908,state-of-the-art,tân tiến nhất
+909,stationary point,điểm dừng
+910,statistical inference,suy luận thống kê
+911,statistical power,năng lực thống kê
+912,statistical significance,ý nghĩa thống kê
+913,statistical significant,có ý nghĩa thống kê
+914,stochastic gradient descent,hạ gradient ngẫu nhiên
+915,stop word,từ dừng
+916,style loss (in style transfer),mất mát phong cách
+917,stride,sải bước
+918,subscript,chỉ số dưới
+919,subspace estimation,ước lượng không gian con
+920,subword (NLP),từ con
+921,superscript,chỉ số trên
+922,supervised learning,học có giám sát
+923,support vector machine (SVM),Máy vector hỗ trợ
+924,surprisal (in information theory),lượng tin
+925,surrogate objective,mục tiêu thay thế
+926,switch,bộ chuyển mạch
+927,symbolic graph,đồ thị biểu tượng
+928,Taylor expansion,khai triển Taylor
+929,target data / distribution,dữ liệu / phân phối mục tiêu
+930,task-specific,đặc thù cho tác vụ
+931,task-agnostic,không phân biệt tác vụ
+932,tensor contraction,phép co tensor
+933,test set,tập kiểm tra
+934,test set performance,chất lượng trên tập kiểm tra
+935,test statistic,tiêu chuẩn kiểm định
+936,text data,dữ liệu văn bản
+937,text tagging,gán thẻ văn bản
+938,timeseries analysis,phân tích dữ liệu chuỗi thời gian
+939,timestep,bước thời gian
+940,token,token
+941,total variation,biến thiên toàn phần
+942,total variation denoising,khử nhiễu biến thiên toàn phần
+943,training dev set,tập phát triển huấn luyện
+944,training set,tập huấn luyện
+945,training set performance,chất lượng trên tập huấn luyện
+946,transcribe,phiên thoại
+947,transcription,bản ghi thoại
+948,transfer learning,học truyền tải
+949,transformer,transformer
+950,transition layer,tầng chuyển tiếp
+951,translation invariant,bất biến tịnh tiến
+952,transposed convolution,tích chập chuyển vị
+953,true negative,âm tính thật
+954,true positive,dương tính thật
+955,truncated backpropagation through time,lan truyền ngược qua thời gian bị cắt xén
+956,tune parameters,điều chỉnh tham số
+957,two-sided test,kiểm định hai phía
+958,two-tailed test,kiểm định hai đuôi
+959,unavoidable bias,độ chệch không tránh được
+960,underfit,dưới khớp
+961,underflow (numerical),tràn (số) dưới
+962,unit (in neural networks),nút
+963,unsupervised learning,học không giám sát
+964,upsample,tăng mẫu
+965,upstream task,tác vụ ngược dòng
+966,validation set,tập kiểm định
+967,value,giá trị
+968,vanishing gradient,tiêu biến gradient
+969,variance (of an estimator),phương sai
+970,variational,biến phân
+971,vector,vector
+972,vectorization,vector hóa
+973,warmup (in learning rate scheduling),khởi động
+974,weight decay,suy giảm trọng số
+975,well-behaved function (analytic function),hàm khả vi vô hạn
+976,whitening data,tẩy trắng dữ liệu
+977,worker (in distributed system),máy thợ
+978,wrapper function (in programming),hàm wrapper
