@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import os
 #Open webdriver
-browser = webdriver.Chrome(executable_path="D:/Python/I Just Wanna Test Python/assign/Dictionary/chromedriver.exe")
+browser = webdriver.Chrome(executable_path="D:/Python/I Just Wanna Test Python/assign/glossary.noztanie.io/chromedriver.exe")
 
 #Time to loading web
 

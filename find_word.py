@@ -2,8 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-dt = pd.read_csv("dict_new.csv")
-
+dt = pd.read_csv("D:\\Python\\I Just Wanna Test Python\\assign\\glossary.noztanie.io\\dict_new.csv")
 #Main
 key = input("ENTER THE WORD YOU WANT TO LOOK UP: ").lower()
 

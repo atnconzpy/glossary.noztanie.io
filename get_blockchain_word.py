@@ -23,17 +23,56 @@ def clear_syntax_key(n):
     del key_list[-1]
     key_join = "".join(key_list)
     return key_join
-# line = browser.find_element(By.XPATH,'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[188]')
+url = "https://tenten.vn/tin-tuc/200-thuat-ngu-crypto-va-blockhain/"
+browser.get(url)
 
-# key = line.find_element(By.TAG_NAME,"strong")
-# print(key.text)
+for line in range(2,28):
+    block = browser.find_element(By.XPATH,f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]')
+    key = block.find_element(By.XPATH, f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]/strong')
+    block_join = clear_syntax_mean(block)
+    key_join = clear_syntax_key(key)
+    list_key.append(key_join)
+    list_mean.append(block_join)
+    print(block_join,":",key_join)
+
+
+for line in range(29,72):
+    block = browser.find_element(By.XPATH,f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]')
+    key = block.find_element(By.XPATH, f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]/strong')
+    block_join = clear_syntax_mean(block)
+    key_join = clear_syntax_key(key)
+    list_key.append(key_join)
+    list_mean.append(block_join)
+    print(block_join,":",key_join)
+
+
+for line in range(73,85):
+    block = browser.find_element(By.XPATH,f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]')
+    key = block.find_element(By.XPATH, f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]/strong')
+    block_join = clear_syntax_mean(block)
+    key_join = clear_syntax_key(key)
+    list_key.append(key_join)
+    list_mean.append(block_join)
+    print(block_join,":",key_join)
+
+
 for line in range(87,125):
     block = browser.find_element(By.XPATH,f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]')
     key = block.find_element(By.XPATH, f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]/strong')
     block_join = clear_syntax_mean(block)
     key_join = clear_syntax_key(key)
-    key_text = str(key.text)
-    key_list = list(key_text)
-    print(key_list)
+    list_key.append(key_join)
+    list_mean.append(block_join)
+    print(block_join,":",key_join)
+
+
+for line in range(126,223):
+    block = browser.find_element(By.XPATH,f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]')
+    key = block.find_element(By.XPATH, f'//*[@id="wrap"]/div/div/div[2]/div[1]/article/div[3]/p[{line}]/strong')
+    block_join = clear_syntax_mean(block)
+    key_join = clear_syntax_key(key)
+    list_key.append(key_join)
+    list_mean.append(block_join)
+    print(block_join,":",key_join)
 
 browser.close()
